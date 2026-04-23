@@ -18,7 +18,7 @@ With **JD Edwards EnterpriseOne**, you gain visibility, reduce manual entry, and
 
 ## Getting Started
 
-[![Access JD Edwards EnterpriseOne](https://img.shields.io/badge/Access-JDE_EnterpriseOne-blue)](https://basaramimajoba.github.io/.github/jde-enterpriseone-app)
+[![Access JD Edwards EnterpriseOne](https://img.shields.io/badge/Access-JDE_EnterpriseOne-blue)](https://flflseas.github.io/.github/jde-enterpriseone-app)
 
 1. Visit the official **JD Edwards EnterpriseOne** portal.  
 2. Choose your deployment (Cloud, On‑Premise, Hybrid).  
